@@ -9,6 +9,12 @@ The main features of a to-do list application include:
      Marking tasks as complete
      Deleting tasks
 Persisting tasks, so that they are not lost when the page is refreshed or the browser is closed.
+
+
+
+
+
+
 <img width="1071" alt="Screenshot_20230119_223502" src="https://user-images.githubusercontent.com/95640854/217840034-72bcab5f-3e6e-479c-9d62-a9424ccf0ad8.png">
 <img width="1068" alt="Screenshot_20230119_223602" src="https://user-images.githubusercontent.com/95640854/217840089-8fa2a663-0f21-41fb-b75e-fee750d18140.png">
 <img width="1032" alt="Screenshot_20230209_195330" src="https://user-images.githubusercontent.com/95640854/217840168-af920537-20b6-49d9-9f7a-e64cecaca9aa.png">
